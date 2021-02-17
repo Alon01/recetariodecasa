@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(248, 210, 159);
+}
+h1{
+    text-align: center;
+    color: rgb(10, 128, 6);
+    font-size: 75px;
+    border-style: ridge;
+    border-color: red;
+    font-style: oblique;
+    font-size: 4.5em;
+}
+p{
+    color: rgb(126, 110, 39);
+    text-align: center;
+    font-size: 1.5em;
+}
+ul{
+    list-style-type: circle;
+    text-align: center;
+}
+a:link{
+    color: cornflowerblue;
+    text-decoration: none;
+}
+a:visited{
+    color: crimson;
+    text-decoration: none;
+}
+a:hover{
+    color: darkgrey;
+    font-size: 25px;
+    text-decoration: underline;
+}
+a:active{
+    color: plum;
+    text-decoration: underline;
+}
